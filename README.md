@@ -1,7 +1,8 @@
 # Simple-FaceBot
 A simple Python bot wich texts a message to some friend
 
-# *Project config
+## *Project config*
+
 ```
 Upgrade your pip installer (python -m pip install --upgrade pip) remember to run the cmd as admin 
 Install selenium with 'pip install selenium' command
